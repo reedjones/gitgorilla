@@ -1,26 +1,10 @@
-# GitGorilla 🦍
 
-<style>
-.myheader {
-    padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-  img {
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  }
-}
-</style>
 <div class='myheader' style="padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;
   font-size: 30px;">
-  <h1>GitGorilla</h1>
+  <h1>GitGorilla 🦍</h1>
 <img src="/logo.jpg" alt='git gorilla logo' style=" display: block;
   margin-left: auto;
   margin-right: auto;
