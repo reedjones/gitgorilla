@@ -1,5 +1,32 @@
 # GitGorilla 🦍
 
+<style>
+.myheader {
+    padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  }
+}
+</style>
+<div class='myheader' style="padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;">
+  <h1>GitGorilla</h1>
+<img src="/logo.jpg" alt='git gorilla logo' style=" display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;"/>
+</div>
+
 **GitGorilla** is a powerful CLI tool that allows you to seamlessly merge multiple Git repositories into a single new repository on GitHub. It automates the creation of the new repository, merges the specified repositories, and provides real-time progress updates, making the process efficient and hassle-free.
 
 ## Features
